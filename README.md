@@ -41,4 +41,3 @@ See <http://www.gnu.org/licenses/> for more information.
 
 - Generate data for dropped packets, only when `flow id in [1, 3]` and `node id in [2, 5]`:  
 `python ns2pp.py tracefile.tr -f 1 3 -n 2 5 -t d`
----
